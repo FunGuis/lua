@@ -1,0 +1,11 @@
+Database = {
+	Whitelist = {
+		1,
+	},
+
+	Blacklist = {
+		1,
+	},
+}
+
+return Database
